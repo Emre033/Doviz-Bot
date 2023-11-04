@@ -1,0 +1,17 @@
+{
+    "name": "doviz-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+  "start":"node main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "aoi.db": "^1.1.1",
+      "aoi.js": "^6.4.0",
+      "ayran": "^0.0.1"
+    }
+  }
