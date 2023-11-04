@@ -1,4 +1,4 @@
- BU ALTYAPIYI İZİNSİZ PAYLAŞMAK YASAKTIR
+// BU ALTYAPIYI İZİNSİZ PAYLAŞMAK YASAKTIR
 
 const { AoiClient, LoadCommands } = require("aoi.js"); // Elleme
 
